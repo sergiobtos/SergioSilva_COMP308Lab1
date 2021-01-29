@@ -1,0 +1,24 @@
+
+.comments-form {
+    width: 300px;
+    margin: 0 auto;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+.comments-form input[type="text"],
+.comments-form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #dddddd;
+    margin-bottom: 10px;
+    box-sizing:border-box;
+}
+.comments-form input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #535b63;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+}
